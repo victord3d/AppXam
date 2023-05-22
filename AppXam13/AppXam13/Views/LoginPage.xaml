@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppXam13.Views.LoginPage"
+             BindingContext="{Binding Main, Source={StaticResource Locator}}"
+             Title="Login">
+    <ContentPage.Content>
+        <StackLayout 
+            BindingContext="{Binding Login}"
+            Padding="20,20">
+            <Label
+                FontAttributes="Bold"
+                FontSize="Large"
+                HorizontalOptions="Center"
+                Text="Login">
+            </Label>
+            <Image
+                Source="victor_app_logo"
+                WidthRequest="150">
+            </Image>
+            <Label
+                FontSize="Medium"
+                Text="E-Mail">
+            </Label>
+            <Entry
+                Keyboard="Email"
+                Text="{Binding Email, Mode=TwoWay}"
+                Placeholder="Enter your email..">
+            </Entry>
+            <StackLayout 
+                Orientation="Horizontal"
+                Padding="20">
+                <Label
+                    HorizontalOptions="StartAndExpand"
+                    FontSize="Medium"
+                    Text="Remenberme in this device">
+                </Label>
+                <Switch
+                    IsToggled="{Binding IsRemembered , Mode=TwoWay}"
+                    HorizontalOptions="End">
+                </Switch>
+            </StackLayout>
+            <StackLayout>
+                <ActivityIndicator
+                    IsRunning="{Binding IsRunning, Mode=TwoWay}">
+                </ActivityIndicator>
+            </StackLayout>
+            <Button
+                BackgroundColor="DarkGray"
+                BorderRadius="23"
+                Command="{Binding LoginCommand}"
+                IsEnabled="{Binding IsEnabled, Mode=TwoWay}"
+                Text="LOGIN"
+                TextColor="White">
+            </Button>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

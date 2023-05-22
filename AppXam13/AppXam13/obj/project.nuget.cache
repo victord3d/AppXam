@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "R0+FNT+sNlK+rp9qwUm/+WgwDpMVFz0HArvmtx0mzaO7rw9fEKqTxDXiehV1kc7oYn5zr3b1mYPh46JAT5Y49g==",
+  "success": true,
+  "projectFilePath": "D:\\DiscoE\\XamarinProject\\XamarinRepo\\AppXam13\\AppXam13\\AppXam13\\AppXam13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theve\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\theve\\.nuget\\packages\\mvvmlightlibsstd10\\5.4.1.1\\mvvmlightlibsstd10.5.4.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\theve\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\theve\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\theve\\.nuget\\packages\\xam.plugin.connectivity\\3.2.0\\xam.plugin.connectivity.3.2.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

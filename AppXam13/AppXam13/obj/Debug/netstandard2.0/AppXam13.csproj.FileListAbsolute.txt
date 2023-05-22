@@ -1,0 +1,16 @@
+D:\DiscoE\XamarinProject\XamarinRepo\AppXam13\AppXam13\AppXam13\bin\Debug\netstandard2.0\AppXam13.deps.json
+D:\DiscoE\XamarinProject\XamarinRepo\AppXam13\AppXam13\AppXam13\bin\Debug\netstandard2.0\AppXam13.dll
+D:\DiscoE\XamarinProject\XamarinRepo\AppXam13\AppXam13\AppXam13\bin\Debug\netstandard2.0\ref\AppXam13.dll
+D:\DiscoE\XamarinProject\XamarinRepo\AppXam13\AppXam13\AppXam13\bin\Debug\netstandard2.0\AppXam13.pdb
+D:\DiscoE\XamarinProject\XamarinRepo\AppXam13\AppXam13\AppXam13\obj\Debug\netstandard2.0\AppXam13.csproj.AssemblyReference.cache
+D:\DiscoE\XamarinProject\XamarinRepo\AppXam13\AppXam13\AppXam13\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\DiscoE\XamarinProject\XamarinRepo\AppXam13\AppXam13\AppXam13\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\DiscoE\XamarinProject\XamarinRepo\AppXam13\AppXam13\AppXam13\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\DiscoE\XamarinProject\XamarinRepo\AppXam13\AppXam13\AppXam13\obj\Debug\netstandard2.0\AppXam13.AssemblyInfoInputs.cache
+D:\DiscoE\XamarinProject\XamarinRepo\AppXam13\AppXam13\AppXam13\obj\Debug\netstandard2.0\AppXam13.AssemblyInfo.cs
+D:\DiscoE\XamarinProject\XamarinRepo\AppXam13\AppXam13\AppXam13\obj\Debug\netstandard2.0\AppXam13.csproj.CoreCompileInputs.cache
+D:\DiscoE\XamarinProject\XamarinRepo\AppXam13\AppXam13\AppXam13\obj\Debug\netstandard2.0\XamlC.stamp
+D:\DiscoE\XamarinProject\XamarinRepo\AppXam13\AppXam13\AppXam13\obj\Debug\netstandard2.0\AppXam13.dll
+D:\DiscoE\XamarinProject\XamarinRepo\AppXam13\AppXam13\AppXam13\obj\Debug\netstandard2.0\ref\AppXam13.dll
+D:\DiscoE\XamarinProject\XamarinRepo\AppXam13\AppXam13\AppXam13\obj\Debug\netstandard2.0\AppXam13.pdb
+D:\DiscoE\XamarinProject\XamarinRepo\AppXam13\AppXam13\AppXam13\obj\Debug\netstandard2.0\Views\LandsPage.xaml.g.cs
