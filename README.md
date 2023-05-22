@@ -16,4 +16,4 @@ Junio 2021
 Victor E Salcedo Z - [@victord3d](https://twitter.com/victord3d)
 
 ## Otros
-Más Información [App Xamarin MVVM](https://victord3d.wordpress.com/portafolio/app-xamarin-mvvm/) publicada a texto completo.
+Más Información [App Xamarin MVVM](https://victord3d.wordpress.com/portafolio/app-xamarin-mvvm/)
